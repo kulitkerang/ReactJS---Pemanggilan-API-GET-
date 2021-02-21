@@ -1,4 +1,6 @@
-# ReactJS Interaksi dengan Back-End, Pemanggilan API (GET)
+# ReactJS Interaksi dengan Back-End, Pemanggilan API (GET) dan Fake API
+- disini kita menggunakan db.json sebagai fake api
+- untuk dokumentasi jsonplaceholder bisa dilihat disni : https://github.com/typicode/json-server
 - disini kita hanya berfokus pada pemanggilan GET
 - pemanggilan get disini kita menggunakan FETCH
 
